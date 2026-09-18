@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+streamlit
+langgraph
+python-dotenv
+# .\.venv\Scripts\Activate.ps1
